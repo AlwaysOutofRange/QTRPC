@@ -1,0 +1,11 @@
+{
+    \"Name\" : \"QTRPC\",
+    \"Version\" : \"0.0.1\",
+    \"CompatVersion\" : \"0.0.1\",
+    \"Vendor\" : \"OutofRange\",
+    \"Copyright\" : \"(C) OutofRange\",
+    \"License\" : \"Fügen Sie hier kurze Lizenzinformationen ein\",
+    \"Description\" : \"Fügen Sie hier eine kurze Beschreibung Ihres Plugins ein\",
+    \"Url\" : \"https://github.com/OutofRange-Nico\",
+    $$dependencyList
+}
